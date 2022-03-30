@@ -20,3 +20,18 @@ I always passionate about human-centred design and I enjoy collaborating with te
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahdi-momeni&show_icons=true&theme=dracula&locale=en" alt="mahdi-momeni" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahdi-momeni&show_icons=true&theme=dracula&locale=en&layout=compact" alt="mahdi-momeni" /></p>
+
+
+<!-- Github stats -->
+
+<a href="https://github.com/sadegh-mhf">
+  <img align="left" width="41%" src="https://github-readme-stats.vercel.app/api?username=sadegh-mhf&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+</a>
+
+<img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadegh-mhf&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+
+<!-- End of stats -->
+<!-- Graph -->
+
+<img src="https://activity-graph.herokuapp.com/graph?username=sadegh-mhf&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/> 
+<!-- End of Graph -->

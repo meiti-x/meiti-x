@@ -33,5 +33,5 @@ I always passionate about human-centred design and I enjoy collaborating with te
 <!-- End of stats -->
 <!-- Graph -->
 
-<img src="https://activity-graph.herokuapp.com/graph?username=mahdi-momeni&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/> 
+<!-- <img src="https://activity-graph.herokuapp.com/graph?username=mahdi-momeni&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>  -->
 <!-- End of Graph -->

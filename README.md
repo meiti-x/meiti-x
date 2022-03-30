@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mahdi</h1>
 <h3 align="center">A passionate frontend developer</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahdi-momeni&label=Profile%20views&color=0e75b6&style=flat" alt="mahdi-momeni" /> </p>
+<h3>About me:</h3>
+<p>
+self and agile learner software engineer with 3+ years experience in front-end development and UI/UX designing.
+I always passionate about human-centred design and I enjoy collaborating with teams to design products that enhance the lives of others.
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

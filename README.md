@@ -12,7 +12,7 @@
 
 <h3>About me:</h3>
 <p>
-self and agile learner software engineer with 3+ years experience in front-end development and UI/UX designing.
+self and agile learner software engineer with 4+ years experience in front-end development and UI/UX designing.
 I always passionate about human-centred design and I enjoy collaborating with teams to design products that enhance the lives of others.
 </p>
 

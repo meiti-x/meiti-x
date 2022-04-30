@@ -16,6 +16,11 @@ self and agile learner software engineer with 4+ years experience in front-end d
 I always passionate about human-centred design and I enjoy collaborating with teams to design products that enhance the lives of others.
 </p>
 
+<!-- - 🔭 I’m implementing features in my daily work using JavaScript stack specifically **Node.js and React/Nextjs** -->
+- 🌱 I’m currently learning Vue, Gatsby, GraphQL and sanity
+- 👯 I'm looking for large-scale projects to help for increase my technical knowledge as a developer.
+<!-- - ⚡ Fun fact: Do not get intimidated by number of repositories I'm forking, I'm an avid and voracious code reader, reading source codes to discover patterns that are applicable in scalable softwares and systems. -->
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/momeni-mahdi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/momeni-mahdi/" height="30" width="40" /></a>

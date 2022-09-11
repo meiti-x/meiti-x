@@ -17,7 +17,7 @@ Aspiring to keep learning on this path with strong technical skills to excel as 
 ###
 <br/>
 <h2 align="left">About me</h2>
-<p align="left">✨ Creating bugs since 2018 :)<br><br>📚 I'm currently learning vite, node.js, express, mongo<br><br>👯 I'm looking for large-scale projects to help for increase my technical knowledge as a developer.<br><br>📄 Know about my experiences https://mahdi-momeni.github.io/</p>
+<p align="left">✨ Creating bugs since 2018 :)<br><br>📚 I'm currently learning design patterns, node.js, express, mongo<br><br>👯 I'm looking for large-scale projects to help for increase my technical knowledge as a developer.<br><br>📄 Know about my experiences https://mahdi-momeni.github.io/</p>
 
 ###
 

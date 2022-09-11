@@ -8,7 +8,11 @@
 
 ###
 
-<p align="left">My name is Mahdi and I'm a Frontend developer, from iran.</p>
+<p align="left">
+Self-learner and Creative Front-End Developer offering 4+ years of experience providing high-impact web solutions for diverse industry organizations. Skilled in designing, developing and testing multiple web-based applications incorporating a range of technologies.
+
+
+Aspiring to keep learning on this path with strong technical skills to excel as a Front-End Developer.</p>
 
 ###
 <br/>

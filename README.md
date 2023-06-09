@@ -9,7 +9,7 @@
 
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
-<p align="left">✨ Creating bugs since 2018 :)<br><br>📚 I'm currently learning design patterns, node.js, express, mongo<br><br>👯 I'm looking for large-scale projects to help for increase my technical knowledge as a developer.<br><br>📄 Know about my experiences https://mahdi-momeni.github.io/</p>
+<p align="left">✨ Creating bugs since 2018 :)<br><br>📚 I'm currently learning design patterns, node.js, nest.js and postgres<br><br>👯 I'm looking for large-scale projects to help for increase my technical knowledge as a developer.<br><br>📄 Know about my experiences https://mahdi-momeni.github.io/</p>
 
 ###
 

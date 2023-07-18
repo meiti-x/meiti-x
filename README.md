@@ -11,6 +11,7 @@
 <img src=https://img.shields.io/badge/hashnode-%232962FF.svg?&style=for-the-badge&logo=hashnode&logoColor=white alt=hashnode style="margin-bottom: 5px;" />
 </a>  
   
+![Profile views counter](https://komarev.com/ghpvc/?username=meiti-x&&style=flat-square)  
 
 
 
@@ -62,26 +63,8 @@ I specialize in building robust backends that do all the heavy lifting for your 
 
 
 ## Github Stats  
-
-
-<img src="https://github-readme-stats.vercel.app/api?username=rishavanand&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 50%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishavanand&hide_border=true&layout=compact" align="left" style="width: 50%" />
-
+<img src="https://github-readme-stats.vercel.app/api?username=meiti-x&show_icons=true&count_private=true&hide_border=true&layout=compact" align="left"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meiti-x&hide_border=true&layout=compact" align="left"/>
 
 <br/>  
 
-  
-
-<br/>  
-
-![Profile views counter](https://komarev.com/ghpvc/?username=meiti-x&&style=flat-square)  
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>

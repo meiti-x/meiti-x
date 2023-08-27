@@ -5,19 +5,19 @@
 <a href="https://github.com/Meiti" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/mahdi-momeni" target="_blank">
+<!-- <a href="https://linkedin.com/in/mahdi-momeni" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://hashnode.com/@meitix" target="_blank">
+</a> -->
+<!-- <a href="https://hashnode.com/@meitix" target="_blank">
 <img src=https://img.shields.io/badge/hashnode-%232962FF.svg?&style=for-the-badge&logo=hashnode&logoColor=white alt=hashnode style="margin-bottom: 5px;" />
-</a>  
+</a>   -->
   
 ![Profile views counter](https://komarev.com/ghpvc/?username=meiti-x&&style=flat-square)  
 
 
 
 ### Glad to see you here!  
-Experienced Frontend Developer with a passion for software engineering and system design. With over 5 years of professional experience, I have honed my skills in creating robust frontend solutions. I am dedicated to delivering high-quality work by focusing on project structure, writing clean and maintainable code, and implementing software engineering best practices.
+Experienced front-end developer with a passion for software engineering and system design. With over 5 years of professional experience, I have honed my skills in creating robust frontend solutions. I am dedicated to delivering high-quality work by focusing on project structure, writing clean and maintainable code, and implementing software engineering best practices.
 
   
 
@@ -29,7 +29,7 @@ Experienced Frontend Developer with a passion for software engineering and syste
 - 🔭 I’m currently working on [react structure](https://github.com/meiti-x/react-boilerplate)
   
 
-- 🌱 I’m currently learning About js performance, react best practice and DDD
+- 🌱 I’m currently learning about JS performance, react best practice, and DDD
     
 
 <br/>  

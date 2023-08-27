@@ -17,7 +17,7 @@
 
 
 ### Glad to see you here!  
-Experienced front-end developer with a passion for software engineering and system design. With over 5 years of professional experience, I have honed my skills in creating robust frontend solutions. I am dedicated to delivering high-quality work by focusing on project structure, writing clean and maintainable code, and implementing software engineering best practices.
+Experienced front-end developer with a passion for software engineering and system design. With over 4 years of professional experience, I have honed my skills in creating robust frontend solutions. I am dedicated to delivering high-quality work by focusing on project structure, writing clean and maintainable code, and implementing software engineering best practices.
 
   
 

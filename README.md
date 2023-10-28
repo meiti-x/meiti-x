@@ -1,16 +1,9 @@
 ## 🌌 Welcome to My Interstellar GitHub Journey! 🚀
 
   
-
-<a href="https://github.com/Meiti" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<!-- <a href="https://linkedin.com/in/mahdi-momeni" target="_blank">
+<a href="https://linkedin.com/in/mahdi-momeni" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a> -->
-<!-- <a href="https://hashnode.com/@meitix" target="_blank">
-<img src=https://img.shields.io/badge/hashnode-%232962FF.svg?&style=for-the-badge&logo=hashnode&logoColor=white alt=hashnode style="margin-bottom: 5px;" />
-</a>   -->
+</a>
   
 ![Profile views counter](https://komarev.com/ghpvc/?username=meiti-x&&style=flat-square)  
 
@@ -50,13 +43,6 @@ Experienced front-end developer with a passion for software engineering and syst
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" /></a>  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="25" /></a>  
 </div>  
-
-<br/>  
-
-
-## Github Stats  
-<img src="https://github-readme-stats.vercel.app/api?username=meiti-x&show_icons=true&count_private=true&hide_border=true&layout=compact" align="left"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meiti-x&hide_border=true&layout=compact" align="left"/>
 
 <br/>  
 

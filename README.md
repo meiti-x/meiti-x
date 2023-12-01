@@ -29,6 +29,9 @@ Experienced front-end developer with a passion for software engineering and syst
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [کتاب Learning react](https://mahdi-momeni.github.io/portfolio/blog/learning-react-book)
+- [ایجاد دیزاین سیستم  با tailwind](https://mahdi-momeni.github.io/portfolio/blog/design-system)
+- [اصول ابتدایی کد تمیز در جاوااسکریپت](https://mahdi-momeni.github.io/portfolio/blog/js-cleancode)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>

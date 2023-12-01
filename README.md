@@ -1,7 +1,7 @@
 ## 🌌 Welcome to My Interstellar GitHub Journey! 🚀
 
   
-<a href="https://linkedin.com/in/mahdi-momeni" target="_blank">
+<a href="https://linkedin.com/in/momeni-mahdi" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
   
@@ -41,9 +41,9 @@ Experienced front-end developer with a passion for software engineering and syst
 <a href="/https://meitix.ir/rss.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://meitix.ir/rss.xml" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=meiti-x&show_icons=true&locale=en&layout=compact" alt="meiti-x" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=meiti-x&show_icons=true&locale=en&layout=compact&count_private=true" alt="meiti-x" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=meiti-x&show_icons=true&locale=en" alt="meiti-x" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=meiti-x&show_icons=true&locale=en&count_private=true" alt="meiti-x" /></p>
 
 
 

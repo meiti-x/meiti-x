@@ -42,9 +42,6 @@ Experienced front-end developer with a passion for software engineering and syst
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=meiti-x&show_icons=true&locale=en" alt="meiti-x" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=meiti-x&" alt="meiti-x" /></p>
-
-
 
 
 

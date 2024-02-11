@@ -17,7 +17,7 @@ Experienced front-end developer with a passion for software engineering and syst
 <br/>  
 - 🔭 I’m currently working on webdev-bashrc
 
-- 🌱 I’m currently learning **about software engineering**
+- 🌱 I’m currently learning **about rust, system design**
 
 - 💬 Ask me about **Javascript, Typescript and Software engineering**
 
@@ -30,8 +30,6 @@ Experienced front-end developer with a passion for software engineering and syst
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=meiti-x&show_icons=true&locale=en&layout=compact&count_private=true" alt="meiti-x" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=meiti-x&show_icons=true&locale=en&count_private=true" alt="meiti-x" /></p>
 
 
 

@@ -15,7 +15,7 @@ Experienced front-end developer with a passion for software engineering and syst
   
 
 <br/>  
-- 🔭 I’m currently working on [webdev-bashrc](webdev-bashrc)
+- 🔭 I’m currently working on webdev-bashrc
 
 - 🌱 I’m currently learning **about software engineering**
 

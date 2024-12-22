@@ -19,12 +19,7 @@ Software engineer with a passion for ditribted systems and cloud technologies, c
 <table><tr><td valign="top" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=meiti-x&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meiti-x&hide_border=true&layout=compact&count_private" align="center" style="width: 100%" /></div>
-
-</td></tr></table>  
+</table>  
 
 <br/>  
 

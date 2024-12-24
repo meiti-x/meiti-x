@@ -13,7 +13,7 @@
 <br/>
 Software engineer with a passion for ditribted systems and cloud technologies, committed to delivering high-quality solutions through well-structured projects and maintainable code. With over 4 years of professional experience, I’m dedicated to upholding the best software engineering practices and driving impactful, efficient results
 
-
+i share my learning on my telegram channel. https://t.me/meiti_x
 
 ## Github Stats  
 <table><tr><td valign="top" width="50%">

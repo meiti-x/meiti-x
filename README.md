@@ -2,11 +2,11 @@
 
 
 
-### Glad to see you here!  
+### Glad to see you here! :)
 
 Just a learner
 
-i share my learning on my website. [https://t.me/meiti_x](https://meiti-x.github.io/my-notes/)
+I share my learning on my [telegram channel](https://t.me/meiti_x) and my website [https://t.me/meiti_x](https://meiti-x.github.io/my-notes/)
 
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
